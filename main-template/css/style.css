@@ -243,6 +243,15 @@ pre:after, pre:before {
   margin: auto;
 }
 
+.center-line-long {
+  display: inline-block;
+  width: 330px;
+  height: 1px;
+  border-top: 1px solid #bbb;
+  /* border-bottom: 1px solid $skincolor; */
+  margin: auto;
+}
+
 .center-heading p {
   margin-top: 10px;
 }
@@ -6316,4 +6325,12 @@ body.coming-soon-full {
   color: #fff;
   margin-bottom: 25px;
   margin-top: 20px;
+}
+
+
+/***** Our CSS ******/
+
+.centered {
+  margin: 0 auto;
+  width: 80%;
 }
