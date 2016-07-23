@@ -2969,6 +2969,11 @@ ul.post-desc li + li {
   margin: 10px 0;
 }
 
+.quote-footer.padded {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
 .quote-footer .quote-author-img img {
   float: left;
   max-width: 90px;
@@ -2984,6 +2989,16 @@ ul.post-desc li + li {
   z-index: 1;
   padding: 5px;
   background-color: #fff;
+}
+
+.quote-author-img.blue-small img {
+  background-color:#32c5d2;
+  padding:2px;
+}
+
+.quote-author-img.grey-small img {
+  background-color:#555;
+  padding:2px;
 }
 
 .quote-footer h4 {
