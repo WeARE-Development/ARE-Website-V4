@@ -4,7 +4,7 @@
                 <div class="row">
                     <div class="col-md-3 col-sm-6 margin30">
                         <div class="footer-col">
-                            <h3>About ARE</h3>
+                            <h3>About assan</h3>
                             <p>
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. Pellentesque cursus arcu id magna euismod in elementum purus molestie.
                             </p>
