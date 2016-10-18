@@ -6349,3 +6349,7 @@ body.coming-soon-full {
   margin: 0 auto;
   width: 80%;
 }
+
+.bold-text {
+  font-weight: bold;
+}
