@@ -1470,6 +1470,13 @@ Footer light styles
   height: 100%;
 }
 
+.no-padding.img_trench {
+  background: url(../../images/bf1_trench.jpg) scroll center no-repeat;
+  background-size: cover;
+  position: absolute;
+  height: 100%;
+}
+
 .no-padding.img-2 {
   background: url(../img/showcase-2.jpg) scroll center no-repeat;
   background-size: cover;
@@ -1887,6 +1894,11 @@ a.carousel-control {
 /*******************home parallax-bg----***********************/
 #home-parallax {
   background: url("../img/showcase-4.jpg") no-repeat;
+  padding: 190px 0;
+}
+
+#index-parallax {
+  background: url("../../images/bf1bgblur.jpg") no-repeat;
   padding: 190px 0;
 }
 
