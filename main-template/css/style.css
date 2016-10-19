@@ -1489,7 +1489,14 @@ Footer light styles
     position: relative;
     height: 300px;
   }
+
+  .no-padding.img_trench {
+    position: relative;
+    height: 300px;
+  }
 }
+
+
 /************************image hover effect*******************/
 .item-img-wrap {
   position: relative;
@@ -1899,7 +1906,7 @@ a.carousel-control {
 
 #index-parallax {
   background: url("../../images/bf1bgblur.jpg") no-repeat;
-  background-size: 100%;
+  background-size: cover;
   padding: 190px 0;
 }
 
