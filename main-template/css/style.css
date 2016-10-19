@@ -1977,6 +1977,10 @@ h1.typed-text {
   color: #fff;
 }
 
+#index-parallax p {
+  color: #fff;
+}
+
 @media (max-width: 568px) {
   h1.typed-text {
     font-size: 25px;
