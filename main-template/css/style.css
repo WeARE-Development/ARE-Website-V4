@@ -1899,6 +1899,7 @@ a.carousel-control {
 
 #index-parallax {
   background: url("../../images/bf1bgblur.jpg") no-repeat;
+  background-size: 100%;
   padding: 190px 0;
 }
 
