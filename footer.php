@@ -1,91 +1,60 @@
-        <footer id="footer">
+<footer id="footer">
             <div class="container">
 
                 <div class="row">
-                    <div class="col-md-3 col-sm-6 margin30">
+                    <div class="col-md-6 col-sm-12 margin30">
                         <div class="footer-col">
-                            <h3>About assan</h3>
+                            <h3>About ARE</h3>
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. Pellentesque cursus arcu id magna euismod in elementum purus molestie.
-                            </p>
+                            The premier battlefield community for team-oriented gamers on PlayStation 4! Well respected in the battlefield community, ARE is committed to being the place for tactical and well-rounded players that value strategy, communication, coordination, and collaboration with others. ARE provides an opportunity for these players to enjoy themselves, play battlefield the way it was meant to be played, and fight alongside other like-minded individuals in an organized environment.                            </p>
                             <ul class="list-inline footer-social">
                                 <li>
-                                    <a href="#" class="social-icon si-dark si-gray-round si-colored-facebook">
+                                    <a href="https://www.facebook.com/alpharangersgaming" target="_blank" class="social-icon si-dark si-gray-round si-colored-facebook">
                                         <i class="fa fa-facebook"></i>
                                         <i class="fa fa-facebook"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="#" class="social-icon si-dark si-gray-round si-colored-twitter">
+                                    <a href="https://twitter.com/alpharangers" target="_blank" class="social-icon si-dark si-gray-round si-colored-twitter">
                                         <i class="fa fa-twitter"></i>
                                         <i class="fa fa-twitter"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="#" class="social-icon si-dark si-gray-round si-colored-google-plus">
-                                        <i class="fa fa-google-plus"></i>
-                                        <i class="fa fa-google-plus"></i>
+                                    <a href="https://www.instagram.com/alpharangersgaming" target="_blank" class="social-icon si-dark si-gray-round si-colored-instagram">
+                                        <i class="fa fa-instagram"></i>
+                                        <i class="fa fa-instagram"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="#" class="social-icon si-dark si-gray-round si-colored-pinterest">
-                                        <i class="fa fa-pinterest"></i>
-                                        <i class="fa fa-pinterest"></i>
+                                   <a href="https://www.twitch.tv/alpharangersbroadcasting" target="_blank" class="social-icon si-dark si-gray-round si-colored-yahoo">
+                                        <i class="fa fa-twitch"></i>
+                                        <i class="fa fa-twitch"></i>
+                                    </a>
+                                <a href="https://www.youtube.com/user/alpharangersgaming" class="social-icon si-dark si-gray-round si-colored-google-plus">
+                                        <i class="fa fa-youtube"></i>
+                                        <i class="fa fa-youtube"></i>
                                     </a>
                                 </li>
-                                <li>
-                                    <a href="#" class="social-icon si-dark si-gray-round si-colored-linkedin">
-                                        <i class="fa fa-linkedin"></i>
-                                        <i class="fa fa-linkedin"></i>
-                                    </a>
-                                </li>
                             </ul>
                         </div>                        
                     </div><!--footer col-->
-                    <div class="col-md-3 col-sm-6 margin30">
+                    
+                    <!--<div class="col-md-3 col-sm-6 margin30">
                         <div class="footer-col">
-                            <h3>Contact</h3>
-
-                            <ul class="list-unstyled contact">
-                                <li><p><strong><i class="fa fa-map-marker"></i> Address:</strong> vaisahali, jaipur, 302012</p></li> 
-                                <li><p><strong><i class="fa fa-envelope"></i> Mail Us:</strong> <a href="#">Support@designmylife.com</a></p></li>
-                                <li> <p><strong><i class="fa fa-phone"></i> Phone:</strong> +91 1800 2345 2132</p></li>
-                                <li> <p><strong><i class="fa fa-print"></i> Fax</strong> 1800 2345 2132</p></li>
-                                <li> <p><strong><i class="fa fa-skype"></i> Skype</strong> assan.856</p></li>
-
-                            </ul>
+                            <h3>Ad Placement</h3>
+                            <p>Under Construction</p>
                         </div>                        
-                    </div><!--footer col-->
-                    <div class="col-md-3 col-sm-6 margin30">
+                    </div>-->
+                    
+                    <!--footer col-->
+                    <div class="col-md-6 col-sm-12 margin30">
                         <div class="footer-col">
-                            <h3>Featured Work</h3>
-                            <ul class="list-inline f2-work">
-                                <li><a href="portfolio-single.html"><img src="main-template/img/img-1.jpg" class="img-responsive" alt=""></a></li>
-                                <li><a href="portfolio-single.html"><img src="main-template/img/img-2.jpg" class="img-responsive" alt=""></a></li>
-                                <li><a href="portfolio-single.html"><img src="main-template/img/img-3.jpg" class="img-responsive" alt=""></a></li>
-                                <li><a href="portfolio-single.html"><img src="main-template/img/img-4.jpg" class="img-responsive" alt=""></a></li>
-                                <li><a href="portfolio-single.html"><img src="main-template/img/img-5.jpg" class="img-responsive" alt=""></a></li>
-                                <li><a href="portfolio-single.html"><img src="main-template/img/img-6.jpg" class="img-responsive" alt=""></a></li>
-                                <li><a href="portfolio-single.html"><img src="main-template/img/img-7.jpg" class="img-responsive" alt=""></a></li>
-                                <li><a href="portfolio-single.html"><img src="main-template/img/img-8.jpg" class="img-responsive" alt=""></a></li>
-                                <li><a href="portfolio-single.html"><img src="main-template/img/img-9.jpg" class="img-responsive" alt=""></a></li>
-                            </ul>
-                        </div>                        
-                    </div><!--footer col-->
-                    <div class="col-md-3 col-sm-6 margin30">
-                        <div class="footer-col">
-                            <h3>Newsletter</h3>
+                            <h3>Special Thanks</h3>
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, 
+                                Special thanks to our in-house developer team for putting this website together. We're a community run by the members, and through these individaul's contributions of their time and skills we have been able to share the awesome community we have here with the world.
+                                <i>Chris W. - Frontend Developer | Krish M. - Backend Developer | Ryan V. - System Admin | Vince L. - Wordsmith | Emanual C. - Web Designer</i>
                             </p>
-                            <form role="form" class="subscribe-form">
-                                <div class="input-group">
-                                    <input type="text" class="form-control" placeholder="Enter email to subscribe">
-                                    <span class="input-group-btn">
-                                        <button class="btn  btn-theme-dark btn-lg" type="submit">Ok</button>
-                                    </span>
-                                </div>
-                            </form>
                         </div>                        
                     </div><!--footer col-->
 
@@ -93,7 +62,7 @@
                 <div class="row">
                     <div class="col-md-12 text-center">
                         <div class="footer-btm">
-                            <span>&copy;2016. Develop by ARE in-house Ninjas</span>
+                            <span>Alpha Rangers Elite | Alpha Rangers Gaming &copy;2014-2016</span>
                         </div>
                     </div>
                 </div>
@@ -135,5 +104,23 @@
         <script src="main-template/cubeportfolio/js/jquery.cubeportfolio.min.js" type="text/javascript"></script>
         <script src="main-template/js/cube-portfolio.js" type="text/javascript"></script>
         <script src="main-template/js/pace.min.js" type="text/javascript"></script>
+        
+        
+        <!-- Custom stuff not to be included in php footer -->
+        <script src="main-template/js/custom.js" type="text/javascript"></script>
+        <script src="main-template/js/typed.js" type="text/javascript"></script>
+        <script type="text/javascript">
+            /* Typed
+                ================================================== */
+                $(".element").each(function(){
+                    var $this = $(this);
+                    $this.typed({
+                    strings: $this.attr('data-elements').split(','),
+                    typeSpeed: 100, // typing speed
+                    backDelay: 3000 // pause before backspacing
+                    });
+                });
+        </script>
+        
     </body>
 </html>
