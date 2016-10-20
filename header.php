@@ -119,9 +119,6 @@
                                           <li><a href="#">Team_Graphics.zip</a></li>                        
                                     </ul>
                                 </li>
-
-                                <li><a href="#">Team Graphics (Download)</a></li>
-                                <li><a href="#">Team Flyer (Download)</a></li>
                             </ul>
                         </li>
                         <!--menu Resources li end here-->
