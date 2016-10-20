@@ -31,7 +31,7 @@
                                         <i class="fa fa-twitch"></i>
                                         <i class="fa fa-twitch"></i>
                                     </a>
-                                <a href="https://www.youtube.com/user/alpharangersgaming" class="social-icon si-dark si-gray-round si-colored-google-plus">
+                                <a href="https://www.youtube.com/user/alpharangersgaming" target="_blank" class="social-icon si-dark si-gray-round si-colored-google-plus">
                                         <i class="fa fa-youtube"></i>
                                         <i class="fa fa-youtube"></i>
                                     </a>
