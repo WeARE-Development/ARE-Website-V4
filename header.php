@@ -87,7 +87,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="index.html">Welcome To ARE</a>
+                    <a class="navbar-brand" href="index.php">Welcome To ARE</a>
                 </div>
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav navbar-right">
@@ -136,19 +136,3 @@
             </div><!--container-->
         </div><!--navbar-default-->
         <!-- Change this text -->
-        <!--
-        <div class="breadcrumb-wrap">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-6">
-                        <h4>Testimonials</h4>
-                    </div>
-                    <div class="col-sm-6 hidden-xs text-right">
-                        <ol class="breadcrumb">
-                            <li><a href="index.html">Home</a></li>
-                            <li>Testimonials</li>
-                        </ol>
-                    </div>
-                </div>
-            </div> -->
-        </div><!--breadcrumbs-->
