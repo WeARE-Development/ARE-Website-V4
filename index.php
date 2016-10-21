@@ -84,7 +84,7 @@
                             <!-- Title -->
                             <h4>Strategy</h4>
                             <!-- Text -->
-                            <p>Whether it’s Battlefield 1, Battlefield 4, or Rainbow Six Siege, we play to win. We know our maps, we know our positioning, and we execute both effectively. An ARE squad will test the mettle of any opponent.</p>
+                            <p>Whether it’s Battlefield 1, Battlefield 4, or Rainbow Six Siege, we play to win. We know our maps, we know our positioning, and we execute effectively. An ARE squad will test the mettle of any opponent.</p>
                         </div>
                     </div>
                 </div><!--services col-->
