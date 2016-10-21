@@ -11,7 +11,7 @@
                 <p class="lead">A community unlike any other</p>
                 <span class="parallax-buttons">
                     <a href="https://forms.zohopublic.com/virtualoffice3830/form/AREMembershipApplication/formperma/J4B0k36470f24aG27MJ7j4524" target="_blank" class=" btn border-theme btn-lg">Apply now</a>
-                    <a href="about.html" class=" btn border-white btn-lg">About us</a>
+                    <a href="about.php" class=" btn border-white btn-lg">About us</a>
                 </span>
             </div>
         </section><!--parallax-background-->
