@@ -204,6 +204,42 @@
     </div>
 </div>
 <div class="divide60"></div>
+
+
+
+<!--scripts and plugins -->
+<!--must need plugin jquery-->
+<script src="main-template/js/jquery.min.js"></script>
+<!--bootstrap js plugin-->
+<script src="main-template/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+<!--easing plugin for smooth scroll-->
+<script src="main-template/js/jquery.easing.1.3.min.js" type="text/javascript"></script>
+<!--sticky header-->
+<script type="text/javascript" src="main-template/js/jquery.sticky.js"></script>
+<!--flex slider plugin-->
+<script src="main-template/js/jquery.flexslider-min.js" type="text/javascript"></script>
+<!--parallax background plugin-->
+<script src="main-template/js/jquery.stellar.min.js" type="text/javascript"></script>
+
+
+<!--digit countdown plugin-->
+<script src="main-template/js/waypoints.min.js"></script>
+<!--digit countdown plugin-->
+<script src="main-template/js/jquery.counterup.min.js" type="text/javascript"></script>
+<!--on scroll animation-->
+<script src="main-template/js/wow.min.js" type="text/javascript"></script>
+<!--owl carousel slider-->
+<script src="main-template/js/owl.carousel.min.js" type="text/javascript"></script>
+<!--popup js-->
+<script src="main-template/js/jquery.magnific-popup.min.js" type="text/javascript"></script>
+<!--you tube player-->
+<script src="main-template/js/jquery.mb.YTPlayer.min.js" type="text/javascript"></script>
+
+
+<!--customizable plugin edit according to your needs-->
+<script src="main-template/js/custom.js" type="text/javascript"></script>
+
+
 <?php
     include('footer.php');
 ?>

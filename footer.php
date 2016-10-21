@@ -68,59 +68,5 @@
                 </div>
             </div>
         </footer><!--default footer end here-->
-
-        <!--scripts and plugins -->
-        <!--must need plugin jquery-->
-        <script src="main-template/js/jquery.min.js"></script>
-        <script src="main-template/js/jquery-migrate.min.js"></script> 
-        <!--bootstrap js plugin-->
-        <script src="main-template/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>       
-        <!--easing plugin for smooth scroll-->
-        <script src="main-template/js/jquery.easing.1.3.min.js" type="text/javascript"></script>
-        <!--sticky header-->
-        <script type="text/javascript" src="main-template/js/jquery.sticky.js"></script>
-        <!--flex slider plugin-->
-        <script src="main-template/js/jquery.flexslider-min.js" type="text/javascript"></script>
-        <!--parallax background plugin-->
-        <script src="main-template/js/jquery.stellar.min.js" type="text/javascript"></script>
-        <!--digit countdown plugin-->
-        <script src="main-template/js/waypoints.min.js"></script>
-        <!--digit countdown plugin-->
-        <script src="main-template/js/jquery.counterup.min.js" type="text/javascript"></script>
-        <!--on scroll animation-->
-        <script src="main-template/js/wow.min.js" type="text/javascript"></script> 
-        <!--owl carousel slider-->
-        <script src="main-template/js/owl.carousel.min.js" type="text/javascript"></script>
-        <!--popup js-->
-        <script src="main-template/js/jquery.magnific-popup.min.js" type="text/javascript"></script>
-        <!--you tube player-->
-        <script src="main-template/js/jquery.mb.YTPlayer.min.js" type="text/javascript"></script>        
-        <!--customizable plugin edit according to your needs-->
-        <script src="main-template/js/custom.js" type="text/javascript"></script>
-        <script type="text/javascript" src="main-template/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
-        <script type="text/javascript" src="main-template/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
-        <script type="text/javascript" src="main-template/js/revolution-custom.js"></script>
-        <!--cube portfolio plugin-->
-        <script src="main-template/cubeportfolio/js/jquery.cubeportfolio.min.js" type="text/javascript"></script>
-        <script src="main-template/js/cube-portfolio.js" type="text/javascript"></script>
-        <script src="main-template/js/pace.min.js" type="text/javascript"></script>
-        
-        
-        <!-- Custom stuff not to be included in php footer -->
-        <script src="main-template/js/custom.js" type="text/javascript"></script>
-        <script src="main-template/js/typed.js" type="text/javascript"></script>
-        <script type="text/javascript">
-            /* Typed
-                ================================================== */
-                $(".element").each(function(){
-                    var $this = $(this);
-                    $this.typed({
-                    strings: $this.attr('data-elements').split(','),
-                    typeSpeed: 100, // typing speed
-                    backDelay: 3000 // pause before backspacing
-                    });
-                });
-        </script>
-        
     </body>
 </html>
