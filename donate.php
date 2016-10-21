@@ -33,7 +33,7 @@
         <div class="row">
             <div class="col-md-12 text-center">
                 <p>ARE offers its members many resources that give the clan a competitive edge every day. Resources such as dedicated ARE Battlefield servers, our website/Discord running on a top‐tier hosting plan, and the many gears turning in the background most members don’t see. Those resources require real funding, and the door is always open for you to contribute to ARE so we may all continue to enjoy the opportunity to connect, organize, and march together on the Battlefield.</p>
-                <p><i>Every dollar matters ‐ there is no minimum donation amount, and every cent is repurposed into ARE clan resources.</i></p>
+                <p style="color: green"><i>Every dollar matters ‐ there is no minimum donation amount, and every cent is repurposed into ARE clan resources.</i></p>
                 <p>The PayPal button below will direct you to paypal.com to confirm payment details. You can contribute via PayPal account, credit card, debit card, or any other form of valid payment. PayPal account is not required.</p>
                 
                 <p>
