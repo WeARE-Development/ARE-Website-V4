@@ -2,7 +2,7 @@
             <div class="container">
 
                 <div class="row">
-                    <div class="col-md-6 col-sm-12 margin30">
+                    <div class="col-md-4 col-sm-12 margin30">
                         <div class="footer-col">
                             <h3>About ARE</h3>
                             <p>
@@ -40,15 +40,7 @@
                         </div>                        
                     </div><!--footer col-->
                     
-                    <!--<div class="col-md-3 col-sm-6 margin30">
-                        <div class="footer-col">
-                            <h3>Ad Placement</h3>
-                            <p>Under Construction</p>
-                        </div>                        
-                    </div>-->
-                    
-                    <!--footer col-->
-                    <div class="col-md-6 col-sm-12 margin30">
+                    <div class="col-md-4 col-sm-12 margin30">
                         <div class="footer-col">
                             <h3>Special Thanks</h3>
                             <p>
@@ -57,6 +49,22 @@
                             </p>
                         </div>                        
                     </div><!--footer col-->
+                            
+                    <div class="col-md-4 col-sm-12 margin30">
+                        <div class="footer-col">
+                            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+            <!-- ARE_Footer_Ad -->
+                        <ins class="adsbygoogle"
+                        style="display:inline-block;width:300px;height:250px"
+                        data-ad-client="ca-pub-8990098267849145"
+                        data-ad-slot="5455849517"></ins>
+                       <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                                    </script>
+                        </div>                        
+                    </div>
+                    
+                    <!--footer col-->
 
                 </div>
                 <div class="row">
