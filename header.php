@@ -64,9 +64,9 @@
                     </div>
                     <div class="col-sm-8 text-right">
                         <ul class="list-inline top-dark-right">                      
-                            <li><a href="mailto:publicrelations@alpharangerselite.com" class="hidden-sm hidden-xs"><i class="fa fa-envelope"></i>publicrelations@alpharangerselite.com</li>
+                            <li><a href="mailto:publicrelations@alpharangerselite.com" class="hidden-sm hidden-xs"><i class="fa fa-envelope"></i>publicrelations@alpharangerselite.com</a></li>
                 
-                            <li><a href="https://forms.zohopublic.com/virtualoffice3830/form/MemberFeedback/formperma/b1F4F4B6jk1MA75FjCe3JHaBh" target="_blank" ><i class="fa fa-lock"></i> Staff Login</a></li>
+                            <li><a href="https://forms.zohopublic.com/virtualoffice3830/form/MemberFeedback/formperma/b1F4F4B6jk1MA75FjCe3JHaBh" target="_blank" ><i class="fa fa-user-plus"></i>Member Sponsorship</a></li>
                             <li><a href="http://battlefield-clans.com/index.php?a=in&u=SirBicket" target="_blank" ><i class="fa fa-check"></i> Vote for Us</a></li>
                             
                         </ul>
