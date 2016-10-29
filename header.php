@@ -66,7 +66,7 @@
                         <ul class="list-inline top-dark-right">                      
                             <li><a href="mailto:publicrelations@alpharangerselite.com" class="hidden-sm hidden-xs"><i class="fa fa-envelope"></i>publicrelations@alpharangerselite.com</li>
                 
-                            <li><a href="#"><i class="fa fa-lock"></i> Staff Login</a></li>
+                            <li><a href="https://forms.zohopublic.com/virtualoffice3830/form/MemberFeedback/formperma/b1F4F4B6jk1MA75FjCe3JHaBh" target="_blank" ><i class="fa fa-lock"></i> Staff Login</a></li>
                             <li><a href="http://battlefield-clans.com/index.php?a=in&u=SirBicket" target="_blank" ><i class="fa fa-check"></i> Vote for Us</a></li>
                             
                         </ul>
@@ -111,12 +111,12 @@
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Resources <i class="fa fa-angle-down"></i></a>
                             <ul class="dropdown-menu" role="menu">
                                 <li><a href="https://discord.gg/0htwF5c777eftCsc" target="_blank">Discord Server</a></li>
-                                <li><a href="#" target="_blank">(Public)Practice Notes-BF4 Aerial Vehicles</a></li>
+                                <li><a href="/docs/AREPublicPracticeNotes-BF4AerialVehicles.pdf" target="_blank">(Public)Practice Notes-BF4 Aerial Vehicles</a></li>
                                 <li class="dropdown-submenu">
                                     <a tabindex="-1" href="#">Downloads </a>
                                     <ul class="dropdown-menu">
-                                          <li><a href="#">Team_Flyer.pdf</a></li>
-                                          <li><a href="#">Team_Graphics.zip</a></li>                        
+                                          <li><a href="/docs/ARE_Flyer_8.5x11.pdf">Team Flyer.pdf</a></li>
+                                          <li><a href="/docs/ARE GFX Download.zip">Team Graphics.zip</a></li>              
                                     </ul>
                                 </li>
                             </ul>
