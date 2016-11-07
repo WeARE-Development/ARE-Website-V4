@@ -23,7 +23,7 @@
                     <div class="col-sm-8">
                         <h4 class="animated slideInDown">Quote of the Month</h4>
                         <p>
-                            "Individually we ARE one drop, but together, we ARE an ocean."
+                            "We ARE not a team because we work together. We ARE a team because we respect, trust, and care for each other."
                         </p>                   
                     </div>
                 </div>
