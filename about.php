@@ -60,23 +60,23 @@
                 <div class="col-md-12 margin20">
                     <h3 class="heading">What We Offer</h3>
                     <ul class="list-unstyled highlight-list">
-                        <li><i class="fa fa-check"></i><span class="bold-text">Dedicated Battlefield Server</span> running 24/7 and available for private practices.</li>
+                        <li><i class="fa fa-check"></i><span class="bold-text">Dedicated Battlefield Server</span> - Our dedicated server running 24/7 and available for private practices.</li>
 
                         <li><i class="fa fa-check"></i> <span class="bold-text">Facebook, Twitter, Instagram </span> - Active social media outlets run by team members
 
-                        <li><i class="fa fa-check"></i> <span class="bold-text">Team Twitch channel</span> for streaming. Members can even have their own streams hosted on the team’s channel through Twitch’s new auto-hosting program!</li>
+                        <li><i class="fa fa-check"></i> <span class="bold-text">Team Twitch channel</span> - Our own channel for streaming. Members can even have their own streams hosted on the team’s channel through Twitch’s new auto-hosting program!</li>
 
-                        <li><i class="fa fa-check"></i><span class="bold-text">Active Communication Platform.</span> Introducing Discord, ARE’s communication platform for announcements, finding squad-ups, chatting with teammates, and more.
+                        <li><i class="fa fa-check"></i><span class="bold-text">Active Communication Platform.</span> - Introducing Discord, ARE’s communication platform for announcements, finding squad-ups, chatting with teammates, and more.
                         </li>
 
-                        <li><i class="fa fa-check"></i> <span class="bold-text">Competitive Battles &amp; Training.</span> Electronic Sports Leauge, eSports Battlefield, Fragged Nation, Glory4Gamers, and Major League Gaming - you name it, we’ve done it.</li>
+                        <li><i class="fa fa-check"></i> <span class="bold-text">Competitive Battles &amp; Training.</span> - Electronic Sports Leauge, eSports Battlefield, Fragged Nation, Glory4Gamers, and Major League Gaming - you name it, we’ve done it.</li>
 
-                        <li><i class="fa fa-check"></i> <span class="bold-text">Active administration</span> on the back end... so you can enjoy gaming on the front end</li>
+                        <li><i class="fa fa-check"></i> <span class="bold-text">Active administration</span> - On the back end... so you can enjoy gaming on the front end</li>
 
-                        <li><i class="fa fa-check"></i> <span class="bold-text">Community Events.</span> From large get-togethers to game nights, from practice nights to team battles. We do it all, and we do a lot. 
+                        <li><i class="fa fa-check"></i> <span class="bold-text">Community Events.</span> - From large get-togethers to game nights, from practice nights to team battles. We do it all, and we do a lot. 
                         </li>
 
-                        <li><i class="fa fa-check"></i> <span class="bold-text">Opportunities for involvement.</span> Want to hone your battlefield skills in a specific area or get involved with the competitive scene? We've got practices for that. Want to help run our operation? We have volunteer positions and training for that. Maybe you just want to have a quality group of guys to play with every night? We got that too! Whether you’re the guy who is on every night, or the guy who only plays on the weekends, ARE is a happenin place!</li>
+                        <li><i class="fa fa-check"></i> <span class="bold-text">Opportunities for involvement.</span> - Want to hone your battlefield skills in a specific area or get involved with the competitive scene? We've got practices for that. Want to help run our operation? We have volunteer positions and training for that. Maybe you just want to have a quality group of guys to play with every night? We got that too! Whether you’re the guy who is on every night, or the guy who only plays on the weekends, ARE is a happenin place!</li>
                     </ul>
                 </div>
             </div><!-- Highlights and who we are -->
